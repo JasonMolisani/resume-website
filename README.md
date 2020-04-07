@@ -19,6 +19,10 @@ files, it will automatically build your project and update your browser without 
 
 ![WebStorm Gulp Config](screenshots/gulp.png)
 
+# Screenshots of Browsersync in action
+![Before changes](screenshots/before_changes.jpg)
+![After changes](screenshots/after_changes.jpg)
+
 # Readings
 * [What is Bootstrap?](https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/)
 * [What is GULP? <- You need to follow this or it won't work](https://www.sitepoint.com/introduction-gulp-js/)
