@@ -14,7 +14,8 @@ const clean = require('gulp-clean');
 const isProd = process.env.NODE_ENV === 'prod';
 
 const htmlFile = [
-    'src/*.html'
+    'src/*.html',
+
 ]
 
 function html() {
